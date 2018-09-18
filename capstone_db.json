@@ -1,0 +1,125 @@
+{
+    "books":
+    [ 
+        {
+            "id": 1, 
+            "title": "Harry Potter and the Chamber of Secrets", 
+            "chapters": [{"title": "The Worst Birthday --", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "Dobby's Warning --", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "The Burrow --", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "At Flourish and Blotts --", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "The Whomping Willow --", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "Gilderoy Lockhart --", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "Mudbloods and Murmurs --", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "The Deathday Party --", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "The Writing on the Wall --", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "The Rogue Bludger --", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "The Dueling Club --", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "The Polyjuice Potion --", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "The Very Secret Diary --", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "Cornelius Fudge --", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "Aragog --", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "The Chamber of Secrets --", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "The Heir of Slytherin --", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "Dobby's Reward.", "type": {"key": "/type/toc_item"}, "level": 0}], 
+            "pages": 341, 
+            "olid": "OL23292648M", 
+            "author": "J. K. Rowling"
+        }, 
+        {
+            "id": 2, 
+            "title": "Battle of the Bulge", 
+            "chapters": [{"type": "/type/text", "value": "An expanding global conflict"}, {"type": "/type/text", "value": "From Normandy to the Ardennes"}, {"type": "/type/text", "value": "'Watch on the Rhine'"}, {"type": "/type/text", "value": "Into the woods"}, {"type": "/type/text", "value": "What's a Texas leaguer?"}, {"type": "/type/text", "value": "Nuts!"}, {"type": "/type/text", "value": ""}], 
+            "pages": 126, 
+            "olid": "OL3673862M", 
+            "author": "Tim McNeese"
+        },
+        {
+            "id": 3, 
+            "title": "All About Horses", 
+            "chapters": [{"tocpage": 8, "type": {"key": "/type/toc_item"}, "title": "1 In the Beginning", "pagenum": "3", "level": 1}, {"tocpage": 8, "type": {"key": "/type/toc_item"}, "title": "2 The Wild Relatives of the Horse", "pagenum": "15", "level": 1}, {"tocpage": 8, "type": {"key": "/type/toc_item"}, "title": "3 Man and Horse Together", "pagenum": "23", "level": 1}, {"tocpage": 8, "type": {"key": "/type/toc_item"}, "title": "4 Riding Into Battle", "pagenum": "28", "level": 1}, {"tocpage": 8, "type": {"key": "/type/toc_item"}, "title": "5 The Horsemen From Hell", "pagenum": "35", "level": 1}, {"tocpage": 8, "type": {"key": "/type/toc_item"}, "title": "6 The Horse Crosses the Atlantic", "pagenum": "40", "level": 1}, {"tocpage": 8, "type": {"key": "/type/toc_item"}, "title": "7 The Horse Indians", "pagenum": "50", "level": 1}, {"tocpage": 9, "type": {"key": "/type/toc_item"}, "title": "8 Horse Trading and Raiding", "pagenum": "58", "level": 1}, {"tocpage": 9, "type": {"key": "/type/toc_item"}, "title": "9 The Hot Bloods", "pagenum": "66", "level": 1}, {"tocpage": 9, "type": {"key": "/type/toc_item"}, "title": "10 The Cold Bloods", "pagenum": "76", "level": 1}, {"tocpage": 9, "type": {"key": "/type/toc_item"}, "title": "11 The Warm Bloods", "pagenum": "84", "level": 1}, {"tocpage": 9, "type": {"key": "/type/toc_item"}, "title": "12 Points of the Horse", "pagenum": "105", "level": 1}, {"tocpage": 9, "type": {"key": "/type/toc_item"}, "title": "13 Colors, Patches, and Spots", "pagenum": "119", "level": 1}, {"tocpage": 9, "type": {"key": "/type/toc_item"}, "title": "14 Horseman's Talk", "pagenum": "128", "level": 1}, {"tocpage": 9, "type": {"key": "/type/toc_item"}, "title": "Index", "pagenum": "141", "level": 1}], 
+            "pages": 144, 
+            "olid": "OL5849316M", 
+            "author": "Marguerite Henry"
+        },
+        {
+            "id": 4, 
+            "title": "Tales from Beatrix Potter", 
+            "chapters": [{"type": {"key": "/type/toc_item"}, "title": "The tailor of Gloucester"}, {"type": {"key": "/type/toc_item"}, "title": "The tale of Mrs. Tiggy-Winkle"}, {"type": {"key": "/type/toc_item"}, "title": "The tale of Jemima Puddle-Duck"}, {"type": {"key": "/type/toc_item"}, "title": "The tale of the Flopsy Bunnies."}], 
+            "pages": 124, 
+            "olid": "OL2739331M", 
+            "author": "Beatrix Potter"
+        },
+        {
+            "id": 5, 
+            "title": "The Illustrated Atlas of the Universe", 
+            "chapters": [{"type": {"key": "/type/toc_item"}, "title": "Earth and moon"}, {"type": {"key": "/type/toc_item"}, "title": "Inner solar system"}, {"type": {"key": "/type/toc_item"}, "title": "Outer solar system"}, {"type": {"key": "/type/toc_item"}, "title": "Nearest stars"}, {"type": {"key": "/type/toc_item"}, "title": "Local neighborhood"}, {"type": {"key": "/type/toc_item"}, "title": "Milky Way"}, {"type": {"key": "/type/toc_item"}, "title": "Local group"}, {"type": {"key": "/type/toc_item"}, "title": "Universe of galaxies"}, {"type": {"key": "/type/toc_item"}, "title": "Mapping the sky"}, {"type": {"key": "/type/toc_item"}, "title": "Constellations."}], 
+            "pages": 304, 
+            "olid": "OL26454265M", 
+            "author": "Mark Garlick"
+        },
+        {
+            "id": 6, 
+            "title": "The works of Francis Bacon", 
+            "chapters": [{"title": "Vol. 1-7. Philosophical works", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "v.8-10. Translations of the philosophical works", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "v. 11-15. Literary and professional works.", "type": {"key": "/type/toc_item"}, "level": 0}], 
+            "pages": 15, 
+            "olid": "OL25072603M", 
+            "author": "Francis Bacon"
+        },
+        {
+            "id": 7, 
+            "title": "The Lord of the Rings", 
+            "chapters": [{"title": "The fellowship of the ring --", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "The two towers --", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "The return of the king.", "type": {"key": "/type/toc_item"}, "level": 0}], 
+            "pages": 1137, 
+            "olid": "OL7468970M", 
+            "author": "J. R. R. Tolkien"
+        },
+        {
+            "id": 8, 
+            "title": "Troubleshooting SQL", 
+            "chapters": [{"type": {"key": "/type/toc_item"}, "title": "Pt. I."}, {"type": {"key": "/type/toc_item"}, "title": "Laying the Groundwork -- -- Ch. 1."}, {"type": {"key": "/type/toc_item"}, "title": "Choosing a Troubleshooting Environment -- -- Ch. 2."}, {"type": {"key": "/type/toc_item"}, "title": "Using Best Practices -- -- Ch. 3."}, {"type": {"key": "/type/toc_item"}, "title": "Preparing Your Troubleshooting Environment -- -- Pt. II."}, {"type": {"key": "/type/toc_item"}, "title": "Analyzing Problems -- -- Ch. 4."}, {"type": {"key": "/type/toc_item"}, "title": "Creating Databases -- -- Ch. 5."}, {"type": {"key": "/type/toc_item"}, "title": "Normalizing Tables -- -- Ch. 6."}, {"type": {"key": "/type/toc_item"}, "title": "Using Data Types -- -- Ch. 7."}, {"type": {"key": "/type/toc_item"}, "title": "Selecting Data -- -- Ch. 8."}, {"type": {"key": "/type/toc_item"}, "title": "Inserting Data -- -- Ch. 9."}, {"type": {"key": "/type/toc_item"}, "title": "Updating Data -- -- Ch. 10."}, {"type": {"key": "/type/toc_item"}, "title": "Deleting Data -- -- Ch. 11."}, {"type": {"key": "/type/toc_item"}, "title": "Grouping and Aggregating Data -- -- Ch. 12."}, {"type": {"key": "/type/toc_item"}, "title": "Using Joins -- -- Ch. 13."}, {"type": {"key": "/type/toc_item"}, "title": "Using Subqueries -- -- Ch. 14."}, {"type": {"key": "/type/toc_item"}, "title": "Using Views -- -- Pt. III."}, {"type": {"key": "/type/toc_item"}, "title": "Solving Complex Problem -- -- Ch. 15."}, {"type": {"key": "/type/toc_item"}, "title": "Triggers, Stored Procedures, and Parameters -- -- Ch. 16."}, {"type": {"key": "/type/toc_item"}, "title": "Transactions -- -- Ch. 17."}, {"type": {"key": "/type/toc_item"}, "title": "Using Cursors and Exceptions -- -- Ch. 18."}, {"type": {"key": "/type/toc_item"}, "title": "Trees."}], 
+            "pages": 357, 
+            "olid": "OL24957988M", 
+            "author": "Forrest Houlette"
+        },
+        {
+            "id": 9, 
+            "title": "The Glencannon Menagerie", 
+            "chapters": [{"type": "/type/text", "title": "Mary, Queen of Scots"}, {"type": "/type/text", "title": "Cock o' the north"}, {"type": "/type/text", "title": "Barking dog"}, {"type": "/type/text", "title": "The iron mare"}, {"type": "/type/text", "title": "One good tern"}, {"type": "/type/text", "title": "Broilers of the sea"}, {"type": "/type/text", "title": "The toad men of Tumbaroo"}, {"type": "/type/text", "title": "The way of a man with a mermaid"}, {"type": "/type/text", "title": "Monkey business at Gibraltar"}, {"type": "/type/text", "title": "Crocodile tears"}, {"type": "/type/text", "title": "Mr. Glencannon and the ailing cockroach."}, {"type": "/type/text", "title": ""}], 
+            "pages": 206, 
+            "olid": "OL1020378M", 
+            "author": "Guy Gilpatric"
+        },
+        {
+            "id": 10, 
+            "title": "The novels and letters of Jane Austen", 
+            "chapters": [{"type": {"key": "/type/toc_item"}, "title": "v. 1-2. Sense and sensibility"}, {"type": {"key": "/type/toc_item"}, "title": "3-4. Pride and prejudice"}, {"type": {"key": "/type/toc_item"}, "title": "5-6. Mansfield Park"}, {"type": {"key": "/type/toc_item"}, "title": "7-8. Emma"}, {"type": {"key": "/type/toc_item"}, "title": "9. Northanger Abbey"}, {"type": {"key": "/type/toc_item"}, "title": "10. Persuasion"}, {"type": {"key": "/type/toc_item"}, "title": "11. Lady Susan. The Watsons. Letters of Jane Austen"}, {"type": {"key": "/type/toc_item"}, "title": "12. Letters of Jane Austen."}], 
+            "pages": 12, 
+            "olid": "OL24785163M", 
+            "author": "Jane Austen"
+        },
+        {
+            "id": 11, 
+            "title": "The works of John Locke", 
+            "chapters": [{"title": "v. 1. Preface to the works. Life of the author. An analysis of Mr.Locke's doctrine of ideas. An essay concerning human understanding, to the end of Chap. XXII Book II", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "v. 2. An essay concerning human understanding, Book II, Chap. XXIII to the end of Chap. IV, Book IV", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "v. 3. Essay on human understanding concluded. Defence of Mr. Locke's opinion concerning personal identity. Of the conduct of the understanding. Some thoughts concerning reading and study for a gentleman. Elements of natural philosophy. A new method of a common-place-book", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "v. 4. A letter to the Right Rev. Edward Lord Bishop of Worcester, concerning some passages relating to Mr. Locke's Essay of human understanding. Mr. Locke's reply. An answer to remarks upon an Essay concerning human understanding. Mr. Locke's reply", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "v. 5. Some considerations of the consequences of lowering the interest, and raising the value of money. In a letter sent to a member of Parliament, in the year 1691. Short observations on a printed paper, entitled, 'for encouraging the coining silver money in England' ... Further considerations concerning raising the value of money. Two treatises of government", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "v. 6. A letter concerning toleration, being a Translation of the Epistola de tolerantia. Second-fourth letter for toleration", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "v. 7. The reasonableness of Christianity, as delivered in the Scriptures. A vindication of the reasonableness of Christianity, from Mr. Edwards's Reflections. A second vindication of the reasonableness of Christianity", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "v. 8. An essay for the understanding of St. Paul's Epistles, by consulting St. Paul himself. A paraphrase and notes on St. Paul's Epistle to the Galations, I Corinthians, Romans, and Ephesians", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "v. 9. Some thoughts concerning education. An examination of P. Malebranche's opinion of seeing all things in God. A discourse of miracles. Memoirs relating to the life of Anthony, first Earl of Shaftsbury. Some familiar letters between Mr. Locke, and several of his friends", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "v. 10. Continuation of familiar letters between Mr. Locke, and several of his friends. [Miscellaneous letters and pieces]", "type": {"key": "/type/toc_item"}, "level": 0}], 
+            "pages": 10, 
+            "olid": "OL24786399M", 
+            "author": "John Locke"
+        },
+        {
+            "id": 12, 
+            "title": "Enterprise recipes with Ruby and Rails", 
+            "chapters": [{"title": "Implement enterprise-wide security", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "Process e-commerce payments", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "Get the most out of databases", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "Tame file and data formats", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "Process XML documents the Ruby way", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "Perform basic netwrkign tasks with ease", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "Use and build web services", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "Talk to message brokers", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "Speak foreign languages", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "Maintain and administer your applications", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "Test the easy way", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "Get documentation nearly for free.", "type": {"key": "/type/toc_item"}, "level": 0}], 
+            "pages": 387, 
+            "olid": "OL23644049M", 
+            "author": "Maik Schmidt"
+        },
+        {
+            "id": 13, 
+            "title": "The art of slow reading", 
+            "chapters": [{"level": 0, "type": {"key": "/type/toc_item"}, "title": "About slowness"}, {"level": 0, "type": {"key": "/type/toc_item"}, "title": "The speed curriculum"}, {"level": 0, "type": {"key": "/type/toc_item"}, "title": "Reading goes silent: performance"}, {"level": 0, "type": {"key": "/type/toc_item"}, "title": "Learning by heart: memorization"}, {"level": 0, "type": {"key": "/type/toc_item"}, "title": "Making a mark: centering"}, {"level": 0, "type": {"key": "/type/toc_item"}, "title": "The pleasures of difficulty: problem finding"}, {"level": 0, "type": {"key": "/type/toc_item"}, "title": "A writer's choices: reading like a writer"}, {"level": 0, "type": {"key": "/type/toc_item"}, "title": "Opening a text: elaborating"}, {"level": 0, "type": {"key": "/type/toc_item"}, "title": "Epilogue: why can't they be like we were, perfect in every way?."}], 
+            "pages": 216, 
+            "olid": "OL25211200M", 
+            "author": "Thomas Newkirk"
+        },
+        {
+        "id": 14, 
+        "title": "The short novels of John Steinbeck", 
+        "chapters": [{"type": {"key": "/type/toc_item"}, "title": "Tortilla Flat."}, {"type": {"key": "/type/toc_item"}, "title": "The red pony."}, {"type": {"key": "/type/toc_item"}, "title": "Of mice and men."}, {"type": {"key": "/type/toc_item"}, "title": "The moon is down."}, {"type": {"key": "/type/toc_item"}, "title": "Cannery Row."}, {"type": {"key": "/type/toc_item"}, "title": "The pearl."}], 
+        "pages": 527, 
+        "olid": "OL24219611M", 
+        "author": "John Steinbeck"
+        },
+        {
+            "id": 15, 
+            "title": "The World Is Flat", 
+            "chapters": [{"title": "pt. [1]: How the world became flat. While I was sleeping", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "The ten forces that flattened the world: 11/9/89 (when the walls came down and the windows went up)"}, {"title":"8/9/95 (when Netscape went public)" },{"title": "Work flow software (let's do lunch: have your application talk to my application)"}, {"title": "Open-sourcing (self-organizing collaborative communities)"}, {"title": "Outsourcing (Y2K)"}, {"title": "Offshoring (when China joined the WTO)"}, {"title": "Supply-chaining (Wal-Mart)"}, {"title": "Insourcing (UPS)"}, {"title": "In-forming (Google, Yahoo!, MSN Web Search)"}, {"title": "The steroids (digital, mobile, personal, and virtual)"}, {"title": "The triple convergence", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "The great sorting-out.", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "pt. [2]: America and the flat world. America and free trade (is Ricardo still right?)", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "The untouchables", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "The quiet crisis", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "This is not a test.", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "pt. [3] Developing countries and the flat world. The virgin of Guadalupe.", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "pt. [4] Companies and the flat world. How companies cope.", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "pt. [5] Geopolitics and the flat world. The unflat world", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "The Dell theory of conflict prevention.", "type": {"key": "/type/toc_item"}, "level": 0}, {"title": "Conclusion. Imagination: 11/9 versus 9/11.", "type": {"key": "/type/toc_item"}, "level": 0}], 
+            "pages": 488, 
+            "olid": "OL7423401M", 
+            "author": "Thomas Friedman"
+        }
+    ]
+}
